@@ -1,0 +1,20 @@
+[
+  {
+    "environment": "colla",
+    "features": [
+      "src/test/resources/features/collabase/authen/ForgotPassword.feature",
+      "src/test/resources/features/collabase/authen/Signup.feature",
+      "src/test/resources/features/collabase/authen/Signin.feature",
+      "src/test/resources/features/collabase/authen/Logout.feature",
+      "src/test/resources/features/collabase/teams/AddTeam.feature",
+      "src/test/resources/features/collabase/teams/ChangeStatusTeams.feature",
+      "src/test/resources/features/collabase/teams/SearchTeams.feature",
+      "src/test/resources/features/collabase/boardadmin/AddBoard.feature",
+      "src/test/resources/features/collabase/boardadmin/AddModel.feature",
+      "src/test/resources/features/collabase/boardadmin/DesignModel.feature",
+      "src/test/resources/features/collabase/boardadmin/CloseBoard.feature",
+      "src/test/resources/features/collabase/boarduse/ViewLayout.feature",
+      "src/test/resources/features/collabase/boarduse/ViewSingle.feature"
+      ]
+  }
+]

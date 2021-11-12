@@ -4,9 +4,7 @@
 #### Doc:
  `http://thucydides.info/docs/serenity/`
 #### Get the code
-#### Git:
-`git clone git@gitlab.shopbase.dev:colla/automation-bdd-colla.git`
-`cd automation-bdd-shopbase.git`
+
 
 #### Open a command window and run:
 `mvn clean install -Dmaven.test.skip=true`
